@@ -11,3 +11,5 @@ git status
 git branch 			:(Displays the list of branches)
 git branch {branch-name} 	:(Creates new branch)
 git commit -m "{your-comments-related to commit}" 
+------------------------------------------------------------------------------------------------------------------
+some contents in read-me to create conflicts
