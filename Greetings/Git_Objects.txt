@@ -1,0 +1,4 @@
+1) blob
+2) tree
+3) commit
+4) tags
