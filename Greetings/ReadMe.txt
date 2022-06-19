@@ -7,3 +7,5 @@ echo "Welcome To Git Inside Out Session!" | git Hash-Object --stdin -w (To Write
 git cat-file {SHA-1 key} -p (Pretty Print)
 git cat-file {SHA-1 key} -t  (Type of the content)
 git status
+
+git commit -m "{your-comments-related to commit}" 
