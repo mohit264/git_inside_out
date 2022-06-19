@@ -13,3 +13,5 @@ git branch {branch-name} 	:(Creates new branch)
 git commit -m "{your-comments-related to commit}" 
 .............................................................................................
 this is master's commit to create the conflicts with new-read me branch
+------------------------------------------------------------------------------------------------------------------
+some contents in read-me to create conflicts
